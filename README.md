@@ -3,3 +3,7 @@ this is my first project of discord bot! this is not the final product and some 
 for now it consist on:
 a meme command
 fun quizz about anorganic and organic trash!
+command:
+$codersmeme for fun meme!
+$notfunnymeme for more meme but not funny!
+$tebak iniate a quizz about trash
